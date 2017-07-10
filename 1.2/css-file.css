@@ -1,0 +1,26 @@
+.div-input {
+    padding :10% 25%;
+    background-color:powderblue;
+}
+
+.input {
+    padding-top:50px;
+    font-size:25px;
+    margin: 0;
+}
+#input-text {
+    height:30px;
+    padding-right:50%;    
+    font-size:25px;    
+    color:black;
+}
+
+.button {
+    margin-top:10px;
+    font-size:30px;
+}
+
+#result-para {
+    text-indent: 40%;
+    font-size:30px;
+}

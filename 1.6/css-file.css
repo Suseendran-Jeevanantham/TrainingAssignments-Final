@@ -1,0 +1,35 @@
+.div-input {
+    background-color: gold;
+    padding: 50px;
+}
+
+#input-para {
+    font-size : 30px;
+    padding-left : 250px;
+}
+
+#input-text {
+    font-size: 30px;
+    padding-left : 50px;
+    margin-left:250px;
+    width : 120px;
+}
+
+#input-button {
+    border-radius: 20px;
+    border-style: solid;
+    border-color: goldenrod;
+    font-size:25px;
+}
+
+#output-para {
+    font-size : 40px;
+    padding-left : 25px;
+}
+
+.div-output {
+    width: 80%;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 50px;;
+}

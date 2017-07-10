@@ -1,0 +1,15 @@
+.input-class
+{
+    color:lightblue;
+    padding:50px;
+    border-style: solid;
+}
+
+#movie-name{
+    width: 250px;
+}
+
+
+#movie-rating{
+    width: 250px;
+}
